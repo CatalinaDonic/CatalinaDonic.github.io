@@ -5,3 +5,5 @@ I'm currently participating in [Gábor Szabó](https://szabgab.com/)'s Python co
 <p align="center">
   <img src="Images/Jung%20Logo.jpg" width="200">
 </p>
+
+I have many hobbies, including but not limited to: Yoga, illustration, Anime, studying Japanese, playing the piano & guitar, plants, fashion and the list goes on....
